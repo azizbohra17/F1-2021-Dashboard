@@ -32,4 +32,4 @@ Welcome to the Formula 1 2021 Rivalry Dashboard GitHub repository! This project 
 
 ![Dashboard Preview](dashboard_preview.png)
 
-#### This dashboard is attempted to replicate [F1 2021 Dashboard by Manoj Pentapali](https://public.tableau.com/app/profile/manoj.pentapalli)
+#### This dashboard is attempted to replicate [F1 2021 Dashboard by Rafael Centeno Pérez](https://public.tableau.com/app/profile/rafael.centeno/viz/2021F1Season/2021F1SeasonInCharts)
